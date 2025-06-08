@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>614</width>
+    <height>370</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>541</width>
+     <height>311</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>楷体</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;软件全称：集成Vissim-Python的信控交叉口配时仿真系统&lt;/p&gt;&lt;p&gt;当前版本：V1.0&lt;/p&gt;&lt;p&gt;开发环境：PyCharm Community Edition 2023.1.3&lt;/p&gt;&lt;p&gt;开发语言：Python 3.8&lt;/p&gt;&lt;p&gt;开发框架：PyQt 5.15.4&lt;/p&gt;&lt;p&gt;界面设计：Qt Creator 12.0.1.0&lt;/p&gt;&lt;p&gt;支持操作系统：Windows x64位&lt;/p&gt;&lt;p&gt;推荐分辨率：1920×1080&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
